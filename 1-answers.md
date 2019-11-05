@@ -339,6 +339,10 @@ Ensures return
 
 Cons
 -----
-Limits max return 
+Limits max return due to paying out liabilities
+
+
 
 How did the gambler calculate the stake to close the position?
+
+Hedging calculation = (back_stake X back_odds)/(current lay odds)
